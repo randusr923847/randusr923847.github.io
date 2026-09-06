@@ -1,3 +1,6 @@
 remote_theme: riggraz/no-style-please
 title: Omkar Govil-Nair
 description: I'm a student, this is my personal website.
+
+theme_config:
+  appearance: "light"
