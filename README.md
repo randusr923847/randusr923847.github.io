@@ -2,7 +2,7 @@ I'm a student. This is my personal site.
 
 As of Sept 2026, interested in full-text & exact-match search engines, systems security, existentialist philosophy, and journalism.
 
-If you're a human, feel free to reach out at omkar at purdue.
+If you're a human, feel free to reach out at omkar at purdue edu.
 
 ---
 
