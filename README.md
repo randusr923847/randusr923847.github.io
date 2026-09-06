@@ -12,7 +12,7 @@ More Active Projects:
 - [https://campusbord.com](https://campusbord.com)
 - [https://huddletools.com](https://huddletools.com)
 
-Less Active Projects:
+Less Active or Inactive Projects:
 - [https://mystauth.com](https://mystauth.com)
 - [https://myst.news](https://myst.news)
 - [http://theowatch.com](http://theowatch.com)
